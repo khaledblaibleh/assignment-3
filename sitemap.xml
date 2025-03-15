@@ -22,12 +22,27 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/thanos-boxing-gloves/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/thanos-boxing-gloves/
+            http://localhost:8000/products/standing-punching-bag/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/interlocking-foam-mats/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/adjustable-dumbbells/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/mma-gloves/
         </loc>
     </url>
     <url>
